@@ -5,13 +5,13 @@ This program calculates the distance and time required for a rover to move
 from an origin point to a destination point based on user input.
 
 Requirements:
-- Python 3.x installed
+- Python 3.14.3 installed
 
 How to Run:
 
 1. Open Command Prompt
 2. Navigate to the folder containing the file:
-   cd Desktop   (or your file location)
+   cd Desktop 
 
 3. Run the program:
    python rover.py
