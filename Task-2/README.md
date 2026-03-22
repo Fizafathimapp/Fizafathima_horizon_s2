@@ -16,4 +16,4 @@ servo_control.ino
 task2\task 2.mp4
 
 ## 🔗 Tinkercad Link
-https://www.tinkercad.com/things/az0g18BGTcv-neat-turing-vihelmo/edit
+https://www.tinkercad.com/things/az0g18BGTcv-neat-turing-vihelmo/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=ONmm-Jmw6SjSAYBQ1HBBRg6EXHqaHrhqIR0ZQwOwqMg
